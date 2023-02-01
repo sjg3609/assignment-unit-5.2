@@ -4,14 +4,14 @@ body {
     background-repeat: repeat;
 }
 
-header {
+.title {
     background-color: rgb(11, 60, 36);
     color: aliceblue;
     text-align: center;
 
 }
 
-main {
+.output {
     background-color: lightgrey;
     padding: 1em;
 }
