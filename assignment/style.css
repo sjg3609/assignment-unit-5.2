@@ -1,3 +1,9 @@
+body {
+    margin: 0px;
+    background-image: url("file:///Users/samgossie/Prime/Unit5/assignment-unit-5.2/assignment/record.png");
+    background-repeat: repeat;
+}
+
 header {
     background-color: rgb(11, 60, 36);
     color: aliceblue;
@@ -7,13 +13,7 @@ header {
 
 main {
     background-color: lightgrey;
-    background-repeat: repeat;
-}
-
-
-
-body {
-    background-image: url ("./Users/samgossie/Prime/Unit5/assignment-unit-5.2/assignment/record.png");
-    margin: 0px;
     padding: 1em;
 }
+
+
