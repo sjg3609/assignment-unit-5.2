@@ -2,7 +2,8 @@ body {
     margin: 1em;
     background-image: url("file:///Users/samgossie/Prime/Unit5/assignment-unit-5.2/assignment/record.png");
     background-color: rgb(36, 68, 94);
-    background-repeat: repeat;
+    background-repeat: round;
+    background-size: contain;
 }
 
 .title {
@@ -10,6 +11,7 @@ body {
     color: aliceblue;
     text-align: center;
     border-radius: 15em;
+    /* border: solid; */
 
 }
 
